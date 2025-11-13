@@ -17,34 +17,17 @@ Desenvolvido para a disciplina de Projeto e Análise de Algoritmos, o trabalho c
 
 Estrutura do Projeto
 IPLPAAV4/
-│
 ├── Algoritmos/
-│   ├── bubbleSortBasico.py
-│   ├── bubbleSortComplexo.py
-│   ├── insertionSort.py
-│   ├── selectionSort.py
-│   ├── shellSort.py
-│   ├── heapSort.py
-│   ├── mergeSort.py
-│   ├── quickSortPrimeiro.py
-│   └── quickSortMedio.py
-│
 ├── graficos_benchmark/
-│   ├── grafico_individual_*.png
-│   ├── grafico_comparativo_*.png
-│   ├── grafico_rapidos_*.png
-│   └── resumo_tempos_medios.png
-│
 ├── executar_tudo.py
 ├── main_benchmark.py
 ├── gerador_graficos_completo.py
 ├── teste_algoritmos.py
-│
 ├── analise_assintotica.md
 ├── DOCUMENTACAO.pdf
+├── resultados_benchmark_completo.csv
 ├── README.md
-│
-└── resultados_benchmark_completo.csv
+└── .gitignore
 
 *Requisitos do Sistema:*
 -Python 3.7 ou superior
