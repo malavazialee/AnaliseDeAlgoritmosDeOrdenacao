@@ -1,0 +1,244 @@
+Algoritmo,Tamanho,Tipo_Entrada,Tempo_Medio,Repeticoes,Sucessos
+Bubble Sort Basico,1000,Aleatorio,0.026264480000463664,5,5
+Bubble Sort Basico,1000,Crescente,0.013437059999341727,5,5
+Bubble Sort Basico,1000,Decrescente,0.028820440000345116,5,5
+Bubble Sort Basico,5000,Aleatorio,0.6552096200000961,5,5
+Bubble Sort Basico,5000,Crescente,0.3687007399996219,5,5
+Bubble Sort Basico,5000,Decrescente,0.8174048400000175,5,5
+Bubble Sort Basico,10000,Aleatorio,2.6638588666664873,3,3
+Bubble Sort Basico,10000,Crescente,1.486874700000044,3,3
+Bubble Sort Basico,10000,Decrescente,3.2056568333343116,3,3
+Bubble Sort Basico,15000,Aleatorio,6.001318233333829,3,3
+Bubble Sort Basico,15000,Crescente,3.324462033332869,3,3
+Bubble Sort Basico,15000,Decrescente,7.028220800000175,3,3
+Bubble Sort Basico,20000,Aleatorio,10.142809733333706,3,3
+Bubble Sort Basico,20000,Crescente,5.655625600000349,3,3
+Bubble Sort Basico,20000,Decrescente,12.785371033332922,3,3
+Bubble Sort Basico,25000,Aleatorio,16.57393774999946,2,2
+Bubble Sort Basico,25000,Crescente,9.41999235000003,2,2
+Bubble Sort Basico,25000,Decrescente,20.285879649999515,2,2
+Bubble Sort Basico,30000,Aleatorio,23.409187700000075,2,2
+Bubble Sort Basico,30000,Crescente,12.901843149999877,2,2
+Bubble Sort Basico,30000,Decrescente,28.38499800000045,2,2
+Bubble Sort Basico,35000,Aleatorio,32.112416749999284,2,2
+Bubble Sort Basico,35000,Crescente,17.612704350000968,2,2
+Bubble Sort Basico,35000,Decrescente,39.262256250000064,2,2
+Bubble Sort Basico,40000,Aleatorio,42.41639909999867,2,2
+Bubble Sort Basico,40000,Crescente,23.152548050000405,2,2
+Bubble Sort Basico,40000,Decrescente,50.46568605000084,2,2
+Bubble Sort Melhorado,1000,Aleatorio,0.024490420000074665,5,5
+Bubble Sort Melhorado,1000,Crescente,3.138000029139221e-05,5,5
+Bubble Sort Melhorado,1000,Decrescente,0.029539320000185398,5,5
+Bubble Sort Melhorado,5000,Aleatorio,0.6457509999992908,5,5
+Bubble Sort Melhorado,5000,Crescente,0.00019014000026800203,5,5
+Bubble Sort Melhorado,5000,Decrescente,0.7979762200000551,5,5
+Bubble Sort Melhorado,10000,Aleatorio,2.613825233333652,3,3
+Bubble Sort Melhorado,10000,Crescente,0.0003022666666462707,3,3
+Bubble Sort Melhorado,10000,Decrescente,3.2095835666665757,3,3
+Bubble Sort Melhorado,15000,Aleatorio,5.935660966667153,3,3
+Bubble Sort Melhorado,15000,Crescente,0.000468366667215984,3,3
+Bubble Sort Melhorado,15000,Decrescente,7.534999433333724,3,3
+Bubble Sort Melhorado,20000,Aleatorio,10.761377400000129,3,3
+Bubble Sort Melhorado,20000,Crescente,0.0005985333330803163,3,3
+Bubble Sort Melhorado,20000,Decrescente,13.430986599999718,3,3
+Bubble Sort Melhorado,25000,Aleatorio,16.973862950000694,2,2
+Bubble Sort Melhorado,25000,Crescente,0.0007584999993923702,2,2
+Bubble Sort Melhorado,25000,Decrescente,20.413758400000916,2,2
+Bubble Sort Melhorado,30000,Aleatorio,23.811613099999704,2,2
+Bubble Sort Melhorado,30000,Crescente,0.0009348000003228663,2,2
+Bubble Sort Melhorado,30000,Decrescente,28.999327450000237,2,2
+Bubble Sort Melhorado,35000,Aleatorio,32.81626950000009,2,2
+Bubble Sort Melhorado,35000,Crescente,0.0011819999999715947,2,2
+Bubble Sort Melhorado,35000,Decrescente,40.85515589999977,2,2
+Bubble Sort Melhorado,40000,Aleatorio,42.74529640000037,2,2
+Bubble Sort Melhorado,40000,Crescente,0.0012513499996202881,2,2
+Bubble Sort Melhorado,40000,Decrescente,51.89587029999984,2,2
+Insertion Sort,1000,Aleatorio,0.01216143999954511,5,5
+Insertion Sort,1000,Crescente,5.83800003369106e-05,5,5
+Insertion Sort,1000,Decrescente,0.02182466000012937,5,5
+Insertion Sort,5000,Aleatorio,0.2839264000005642,5,5
+Insertion Sort,5000,Crescente,0.00029020000001764854,5,5
+Insertion Sort,5000,Decrescente,0.5587999399998808,5,5
+Insertion Sort,10000,Aleatorio,1.134925266666566,3,3
+Insertion Sort,10000,Crescente,0.0005682999999407912,3,3
+Insertion Sort,10000,Decrescente,2.254897366666531,3,3
+Insertion Sort,15000,Aleatorio,2.5585984666668082,3,3
+Insertion Sort,15000,Crescente,0.0008561666672903812,3,3
+Insertion Sort,15000,Decrescente,5.085983233333536,3,3
+Insertion Sort,20000,Aleatorio,4.535102266666702,3,3
+Insertion Sort,20000,Crescente,0.0010956000005535316,3,3
+Insertion Sort,20000,Decrescente,9.027199633333415,3,3
+Insertion Sort,25000,Aleatorio,7.135057550000056,2,2
+Insertion Sort,25000,Crescente,0.0013713499993173173,2,2
+Insertion Sort,25000,Decrescente,14.152695900000253,2,2
+Insertion Sort,30000,Aleatorio,10.19684260000031,2,2
+Insertion Sort,30000,Crescente,0.0017234999995707767,2,2
+Insertion Sort,30000,Decrescente,20.371559199999865,2,2
+Insertion Sort,35000,Aleatorio,14.218143200000668,2,2
+Insertion Sort,35000,Crescente,0.0020119500004511792,2,2
+Insertion Sort,35000,Decrescente,27.86366640000051,2,2
+Insertion Sort,40000,Aleatorio,18.873712149999847,2,2
+Insertion Sort,40000,Crescente,0.0022837499991510413,2,2
+Insertion Sort,40000,Decrescente,36.33111029999964,2,2
+Selection Sort,1000,Aleatorio,0.011940959999992628,5,5
+Selection Sort,1000,Crescente,0.010919720000310917,5,5
+Selection Sort,1000,Decrescente,0.011705799999981536,5,5
+Selection Sort,5000,Aleatorio,0.26374719999985247,5,5
+Selection Sort,5000,Crescente,0.26744247999995424,5,5
+Selection Sort,5000,Decrescente,0.2798340999994252,5,5
+Selection Sort,10000,Aleatorio,1.054735766666757,3,3
+Selection Sort,10000,Crescente,1.0648404333339083,3,3
+Selection Sort,10000,Decrescente,1.1102583666676462,3,3
+Selection Sort,15000,Aleatorio,2.3890734999998435,3,3
+Selection Sort,15000,Crescente,2.386202233333582,3,3
+Selection Sort,15000,Decrescente,2.5002128333332316,3,3
+Selection Sort,20000,Aleatorio,4.225073000000218,3,3
+Selection Sort,20000,Crescente,4.25805886666664,3,3
+Selection Sort,20000,Decrescente,4.451838033333843,3,3
+Selection Sort,25000,Aleatorio,6.75357675000032,2,2
+Selection Sort,25000,Crescente,7.068666649999614,2,2
+Selection Sort,25000,Decrescente,7.011687700000039,2,2
+Selection Sort,30000,Aleatorio,9.929691600000297,2,2
+Selection Sort,30000,Crescente,9.547030300000188,2,2
+Selection Sort,30000,Decrescente,10.071888299999046,2,2
+Selection Sort,35000,Aleatorio,13.458631549999154,2,2
+Selection Sort,35000,Crescente,13.039574199999151,2,2
+Selection Sort,35000,Decrescente,13.782858049999959,2,2
+Selection Sort,40000,Aleatorio,17.727359149999756,2,2
+Selection Sort,40000,Crescente,17.103429999999207,2,2
+Selection Sort,40000,Decrescente,18.065506100000675,2,2
+Shell Sort,1000,Aleatorio,0.0008705399995960761,5,5
+Shell Sort,1000,Crescente,0.00044417999961297026,5,5
+Shell Sort,1000,Decrescente,0.0007961200000863756,5,5
+Shell Sort,5000,Aleatorio,0.007963699999891105,5,5
+Shell Sort,5000,Crescente,0.0026278600002115128,5,5
+Shell Sort,5000,Decrescente,0.004155159999936586,5,5
+Shell Sort,10000,Aleatorio,0.015015499999814589,3,3
+Shell Sort,10000,Crescente,0.005904233333543137,3,3
+Shell Sort,10000,Decrescente,0.009339733333035838,3,3
+Shell Sort,15000,Aleatorio,0.02339123333270739,3,3
+Shell Sort,15000,Crescente,0.009155766666178048,3,3
+Shell Sort,15000,Decrescente,0.015100566666660598,3,3
+Shell Sort,20000,Aleatorio,0.03953979999945053,3,3
+Shell Sort,20000,Crescente,0.012747000000066086,3,3
+Shell Sort,20000,Decrescente,0.020225833333824994,3,3
+Shell Sort,25000,Aleatorio,0.049991649999356014,2,2
+Shell Sort,25000,Crescente,0.019169500000316475,2,2
+Shell Sort,25000,Decrescente,0.028186550000100397,2,2
+Shell Sort,30000,Aleatorio,0.05774470000051224,2,2
+Shell Sort,30000,Crescente,0.02540965000025608,2,2
+Shell Sort,30000,Decrescente,0.0347467499996128,2,2
+Shell Sort,35000,Aleatorio,0.06822215000011056,2,2
+Shell Sort,35000,Crescente,0.02459889999954612,2,2
+Shell Sort,35000,Decrescente,0.039496900000813184,2,2
+Shell Sort,40000,Aleatorio,0.0839098999995258,2,2
+Shell Sort,40000,Crescente,0.027677349999976286,2,2
+Shell Sort,40000,Decrescente,0.044680349999907776,2,2
+Heap Sort,1000,Aleatorio,0.0013395200006925735,5,5
+Heap Sort,1000,Crescente,0.0015083200003573438,5,5
+Heap Sort,1000,Decrescente,0.0013263199994980822,5,5
+Heap Sort,5000,Aleatorio,0.009449239999958082,5,5
+Heap Sort,5000,Crescente,0.009301960000084365,5,5
+Heap Sort,5000,Decrescente,0.00791012000045157,5,5
+Heap Sort,10000,Aleatorio,0.018567666667271016,3,3
+Heap Sort,10000,Crescente,0.020812666666946218,3,3
+Heap Sort,10000,Decrescente,0.01807086666606968,3,3
+Heap Sort,15000,Aleatorio,0.028119366666336038,3,3
+Heap Sort,15000,Crescente,0.02975459999955395,3,3
+Heap Sort,15000,Decrescente,0.026374800000364,3,3
+Heap Sort,20000,Aleatorio,0.039574099999299506,3,3
+Heap Sort,20000,Crescente,0.040040700000342135,3,3
+Heap Sort,20000,Decrescente,0.03783229999983936,3,3
+Heap Sort,25000,Aleatorio,0.04992829999901005,2,2
+Heap Sort,25000,Crescente,0.05132430000048771,2,2
+Heap Sort,25000,Decrescente,0.047050099999978556,2,2
+Heap Sort,30000,Aleatorio,0.06161599999995815,2,2
+Heap Sort,30000,Crescente,0.06227910000052361,2,2
+Heap Sort,30000,Decrescente,0.0572468000009394,2,2
+Heap Sort,35000,Aleatorio,0.07233874999928958,2,2
+Heap Sort,35000,Crescente,0.07354755000051227,2,2
+Heap Sort,35000,Decrescente,0.06791919999977836,2,2
+Heap Sort,40000,Aleatorio,0.08398390000093059,2,2
+Heap Sort,40000,Crescente,0.08673485000053915,2,2
+Heap Sort,40000,Decrescente,0.07881464999991294,2,2
+Merge Sort,1000,Aleatorio,0.0010763600002974272,5,5
+Merge Sort,1000,Crescente,0.0011562800005776807,5,5
+Merge Sort,1000,Decrescente,0.0008125000000291039,5,5
+Merge Sort,5000,Aleatorio,0.008829319999858854,5,5
+Merge Sort,5000,Crescente,0.004524819999278407,5,5
+Merge Sort,5000,Decrescente,0.004752120000193827,5,5
+Merge Sort,10000,Aleatorio,0.013790099999823724,3,3
+Merge Sort,10000,Crescente,0.00930500000019189,3,3
+Merge Sort,10000,Decrescente,0.0095544000002216,3,3
+Merge Sort,15000,Aleatorio,0.021751866666212056,3,3
+Merge Sort,15000,Crescente,0.014075233332429585,3,3
+Merge Sort,15000,Decrescente,0.014422300000054141,3,3
+Merge Sort,20000,Aleatorio,0.031123200000365614,3,3
+Merge Sort,20000,Crescente,0.018621700000342873,3,3
+Merge Sort,20000,Decrescente,0.019470166665996658,3,3
+Merge Sort,25000,Aleatorio,0.037029099999926984,2,2
+Merge Sort,25000,Crescente,0.024782299999969837,2,2
+Merge Sort,25000,Decrescente,0.02569625000069209,2,2
+Merge Sort,30000,Aleatorio,0.04560195000067324,2,2
+Merge Sort,30000,Crescente,0.02905789999931585,2,2
+Merge Sort,30000,Decrescente,0.02975330000026588,2,2
+Merge Sort,35000,Aleatorio,0.05335444999855099,2,2
+Merge Sort,35000,Crescente,0.03540369999973336,2,2
+Merge Sort,35000,Decrescente,0.03597625000111293,2,2
+Merge Sort,40000,Aleatorio,0.06172049999986484,2,2
+Merge Sort,40000,Crescente,0.03953804999946442,2,2
+Merge Sort,40000,Decrescente,0.04164844999922934,2,2
+Quick Sort (Primeiro),1000,Aleatorio,0.0007368000002315967,5,5
+Quick Sort (Primeiro),1000,Crescente,inf,5,0
+Quick Sort (Primeiro),1000,Decrescente,inf,5,0
+Quick Sort (Primeiro),5000,Aleatorio,0.003979959999924176,5,5
+Quick Sort (Primeiro),5000,Crescente,inf,5,0
+Quick Sort (Primeiro),5000,Decrescente,inf,5,0
+Quick Sort (Primeiro),10000,Aleatorio,0.008654833332911949,3,3
+Quick Sort (Primeiro),10000,Crescente,inf,3,0
+Quick Sort (Primeiro),10000,Decrescente,inf,3,0
+Quick Sort (Primeiro),15000,Aleatorio,0.013681166667083744,3,3
+Quick Sort (Primeiro),15000,Crescente,inf,3,0
+Quick Sort (Primeiro),15000,Decrescente,inf,3,0
+Quick Sort (Primeiro),20000,Aleatorio,0.01825816666557027,3,3
+Quick Sort (Primeiro),20000,Crescente,inf,3,0
+Quick Sort (Primeiro),20000,Decrescente,inf,3,0
+Quick Sort (Primeiro),25000,Aleatorio,0.024330499999450694,2,2
+Quick Sort (Primeiro),25000,Crescente,inf,2,0
+Quick Sort (Primeiro),25000,Decrescente,inf,2,0
+Quick Sort (Primeiro),30000,Aleatorio,0.03147690000059811,2,2
+Quick Sort (Primeiro),30000,Crescente,inf,2,0
+Quick Sort (Primeiro),30000,Decrescente,inf,2,0
+Quick Sort (Primeiro),35000,Aleatorio,0.03461579999930109,2,2
+Quick Sort (Primeiro),35000,Crescente,inf,2,0
+Quick Sort (Primeiro),35000,Decrescente,inf,2,0
+Quick Sort (Primeiro),40000,Aleatorio,0.039869500000349944,2,2
+Quick Sort (Primeiro),40000,Crescente,inf,2,0
+Quick Sort (Primeiro),40000,Decrescente,inf,2,0
+Quick Sort (Central),1000,Aleatorio,0.0007469399999536109,5,5
+Quick Sort (Central),1000,Crescente,0.0005546799999137875,5,5
+Quick Sort (Central),1000,Decrescente,0.00046610000026703347,5,5
+Quick Sort (Central),5000,Aleatorio,0.004246240000065881,5,5
+Quick Sort (Central),5000,Crescente,0.002397699999346514,5,5
+Quick Sort (Central),5000,Decrescente,0.0027818599999591244,5,5
+Quick Sort (Central),10000,Aleatorio,0.008836733333737357,3,3
+Quick Sort (Central),10000,Crescente,0.005106233333208365,3,3
+Quick Sort (Central),10000,Decrescente,0.005809000000226661,3,3
+Quick Sort (Central),15000,Aleatorio,0.013943799999348508,3,3
+Quick Sort (Central),15000,Crescente,0.007938566666780389,3,3
+Quick Sort (Central),15000,Decrescente,0.009031366666628552,3,3
+Quick Sort (Central),20000,Aleatorio,0.0195976999996977,3,3
+Quick Sort (Central),20000,Crescente,0.011133666666864883,3,3
+Quick Sort (Central),20000,Decrescente,0.01390926666742113,3,3
+Quick Sort (Central),25000,Aleatorio,0.024076699999568518,2,2
+Quick Sort (Central),25000,Crescente,0.014381149999280751,2,2
+Quick Sort (Central),25000,Decrescente,0.015850499999942258,2,2
+Quick Sort (Central),30000,Aleatorio,0.030284950000350364,2,2
+Quick Sort (Central),30000,Crescente,0.01622410000072705,2,2
+Quick Sort (Central),30000,Decrescente,0.018950100000438397,2,2
+Quick Sort (Central),35000,Aleatorio,0.03462489999947138,2,2
+Quick Sort (Central),35000,Crescente,0.01924109999981738,2,2
+Quick Sort (Central),35000,Decrescente,0.02270760000010341,2,2
+Quick Sort (Central),40000,Aleatorio,0.042338350000136415,2,2
+Quick Sort (Central),40000,Crescente,0.022877649999827554,2,2
+Quick Sort (Central),40000,Decrescente,0.02587270000094577,2,2
